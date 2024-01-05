@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Sounds/BackgroundMusic.mp3</SourceFile>
+  <SourceTime>2023-12-05T21:13:35.7732344-05:00</SourceTime>
+  <DestFile>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/bin/Windows/Sounds/BackgroundMusic.xnb</DestFile>
+  <DestTime>2023-12-07T23:20:46.4190383-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/bin/Windows/Sounds/BackgroundMusic.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

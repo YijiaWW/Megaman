@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Controls/Button.png</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Fonts/Font.spritefont</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Fonts/SmallFont.spritefont</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Images/GameMenu.jpg</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Images/GamePropShotGun.png</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Images/HelpScene.png</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Images/Level1Background.png</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Images/ScrollingBackground.png</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Sounds/BackgroundMusic.mp3</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Sounds/BulletCollsion.wav</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Sounds/Clicksound.wav</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Sounds/DeathMega.wav</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Sounds/EnemyShot.wav</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Sounds/GameOverBackgroundMusic.mp3</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Sounds/GetHitEnemy.wav</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Sounds/GetHitMega.wav</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Sounds/GunShot.wav</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Sounds/Jump.wav</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Sounds/SelectSound.wav</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Sounds/TankExplosion.wav</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Sprites/BornMageMan.png</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Sprites/bullet.gif</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Sprites/DeathMageMan.png</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Sprites/JumpMage.png</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Sprites/JumpShotMage.png</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Sprites/MegaManLife.png</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Sprites/PlaneEnemy.png</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Sprites/RunAndShotMage.png</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Sprites/RunningMageMan.png</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Sprites/ShottingMage.png</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Sprites/StandMageMan.png</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Sprites/TankExplosion.png</File>
+    <File>D:/conestoga college/Term3/game/CoolGame/CoolGame/CoolGame/Content/Sprites/TankShot.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,144 @@
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Controls\Button.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Fonts\Font.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\CoolGame.exe
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\CoolGame.deps.json
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\CoolGame.runtimeconfig.json
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\CoolGame.dll
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\CoolGame.pdb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\obj\Debug\net6.0-windows\CoolGame.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\obj\Debug\net6.0-windows\CoolGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\obj\Debug\net6.0-windows\CoolGame.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\obj\Debug\net6.0-windows\CoolGame.AssemblyInfo.cs
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\obj\Debug\net6.0-windows\CoolGame.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\obj\Debug\net6.0-windows\CoolGame.csproj.CopyComplete
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\obj\Debug\net6.0-windows\CoolGame.dll
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\obj\Debug\net6.0-windows\refint\CoolGame.dll
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\obj\Debug\net6.0-windows\CoolGame.pdb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\obj\Debug\net6.0-windows\CoolGame.genruntimeconfig.cache
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\obj\Debug\net6.0-windows\ref\CoolGame.dll
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\BackgroundMusic.wma
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\BackgroundMusic.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\Clicksound.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\SelectSound.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Images\HelpScene.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sprites\JumpMage.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sprites\RunAndShotMage.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sprites\RunningMageMan.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sprites\ShottingMage.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sprites\StandMageMan.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sprites\bullet.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sprites\JumpShotMage.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\GunShot.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\Jump.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sprites\TankShot.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sprites\TankExplosion.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\TankExplosion.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\BulletCollsion.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sprites\BornMageMan.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sprites\DeathMageMan.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\EnemyShot.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\GetHitEnemy.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\GetHitMega.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\DeathMega.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sprites\MegaManLife.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Images\GameMenu.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\GameOverBackgroundMusic.wma
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\GameOverBackgroundMusic.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Images\ScrollingBackground.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sprites\PlaneEnemy.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Images\GamePropShotGun.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Fonts\SmallFont.xnb
+C:\Users\acer\OneDrive\桌面\CPA Level 3\Game Programming with Data Structures\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Images\Level1Background.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Controls\Button.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Fonts\Font.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Fonts\SmallFont.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Images\GameMenu.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Images\GamePropShotGun.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Images\HelpScene.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Images\Level1Background.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Images\ScrollingBackground.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\BackgroundMusic.wma
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\BackgroundMusic.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\BulletCollsion.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\Clicksound.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\DeathMega.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\EnemyShot.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\GameOverBackgroundMusic.wma
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\GameOverBackgroundMusic.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\GetHitEnemy.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\GetHitMega.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\GunShot.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\Jump.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\SelectSound.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sounds\TankExplosion.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sprites\BornMageMan.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sprites\bullet.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sprites\DeathMageMan.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sprites\JumpMage.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sprites\JumpShotMage.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sprites\MegaManLife.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sprites\PlaneEnemy.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sprites\RunAndShotMage.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sprites\RunningMageMan.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sprites\ShottingMage.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sprites\StandMageMan.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sprites\TankExplosion.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Content\Sprites\TankShot.xnb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\CoolGame.exe
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\CoolGame.deps.json
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\CoolGame.runtimeconfig.json
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\CoolGame.dll
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\CoolGame.pdb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\SharpDX.dll
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\obj\Debug\net6.0-windows\CoolGame.csproj.AssemblyReference.cache
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\obj\Debug\net6.0-windows\CoolGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\obj\Debug\net6.0-windows\CoolGame.AssemblyInfoInputs.cache
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\obj\Debug\net6.0-windows\CoolGame.AssemblyInfo.cs
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\obj\Debug\net6.0-windows\CoolGame.csproj.CoreCompileInputs.cache
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\obj\Debug\net6.0-windows\CoolGame.csproj.CopyComplete
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\obj\Debug\net6.0-windows\CoolGame.dll
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\obj\Debug\net6.0-windows\refint\CoolGame.dll
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\obj\Debug\net6.0-windows\CoolGame.pdb
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\obj\Debug\net6.0-windows\CoolGame.genruntimeconfig.cache
+D:\conestoga college\Term3\game\CoolGame\CoolGame\CoolGame\obj\Debug\net6.0-windows\ref\CoolGame.dll

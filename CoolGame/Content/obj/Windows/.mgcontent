@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Controls/Button.png</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Fonts/Font.spritefont</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Fonts/NewFont.spritefont</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Images/GameMenu.jpg</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Images/GamePropShotGun.png</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Images/HelpScene.png</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Images/ScrollingBackground.png</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Sounds/BackgroundMusic.mp3</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Sounds/BulletCollsion.wav</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Sounds/Clicksound.wav</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Sounds/DeathMega.wav</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Sounds/EnemyShot.wav</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Sounds/GameOverBackgroundMusic.mp3</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Sounds/GetHitEnemy.wav</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Sounds/GetHitMega.wav</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Sounds/GunShot.wav</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Sounds/Jump.wav</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Sounds/SelectSound.wav</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Sounds/TankExplosion.wav</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Sprites/BornMageMan.png</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Sprites/bullet.gif</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Sprites/DeathMageMan.png</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Sprites/JumpMage.png</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Sprites/JumpShotMage.png</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Sprites/MegaManLife.png</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Sprites/PlaneEnemy.png</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Sprites/RunAndShotMage.png</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Sprites/RunningMageMan.png</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Sprites/ShottingMage.png</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Sprites/StandMageMan.png</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Sprites/TankExplosion.png</File>
+    <File>C:/Users/acer/OneDrive/桌面/CPA Level 3/Game Programming with Data Structures/CoolGame/CoolGame/Content/Sprites/TankShot.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
